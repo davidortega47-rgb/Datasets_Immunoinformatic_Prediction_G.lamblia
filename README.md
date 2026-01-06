@@ -3,6 +3,6 @@
 
 ## Files description
 
-*Analysis_assemblagesB_GS: This folder contains all prediction data generated using different thresholds across the entire proteome of _Giardia lamblia_ assemblage B (GS). File “0.01” contains predictions using a percentile rank threshold of < 0.01 and IC50 < 50 nM. File “0.1” contains predictions using a percentile rank threshold of < 0.1 and IC50 < 50 nM. File “1” contains predictions using a percentile rank threshold of < 1 and IC50 < 50 nM.
+*Analysis_assemblagesB_GS: This folder contains prediction data generated using different thresholds across the _Giardia lamblia_ assemblage B (GS) proteome. Files “0.01”, “0.1”, and “1” correspond to percentile rank thresholds of < 0.01, < 0.1, and < 1, respectively, all with IC50 < 50 nM
 
-*Analysis_assemblagesA_WB: This folder contains all prediction data generated using different thresholds across the entire proteome of _Giardia lamblia_ assemblage A (WB). File “0.01” contains predictions using a percentile rank threshold of < 0.01 and IC50 < 50 nM. File “0.1” contains predictions using a percentile rank threshold of < 0.1 and IC50 < 50 nM. File “1” contains predictions using a percentile rank threshold of < 1 and IC50 < 50 nM.
+*Analysis_assemblagesA_WB: This folder contains prediction data generated using different thresholds across the _Giardia lamblia_ assemblage A (WB) proteome. Files “0.01”, “0.1”, and “1” correspond to percentile rank thresholds of < 0.01, < 0.1, and < 1, respectively, all with IC50 < 50 nM

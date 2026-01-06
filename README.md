@@ -1,5 +1,5 @@
 # Immunoinformatic prediction of immunogenic polypeptides acroos the entire proteome of _Giardia lamblia_
-* This repository contains all dataset related to the prediction of immunogenic polypeptides acroos the entire proteome of assemblages A and B of _Giardia lamblia_
+* This repository contains all datasets related to the prediction of immunogenic polypeptides acroos the entire proteomes of assemblages A and B of _Giardia lamblia_
 
 ## Files description
 

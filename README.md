@@ -11,4 +11,4 @@
 
 
 ## Zenodo repository
-*These data are also avalible in a Zenodo repository via the following DOI https://doi.org/10.5281/zenodo.18166891
+*These data are also avalible in a Zenodo repository via the following DOI https://doi.org/10.5281/zenodo.18210685

@@ -7,7 +7,7 @@
 
 *Analysis_assemblagesA_WB: This folder contains prediction data generated using different thresholds across the _Giardia lamblia_ assemblage A (WB) proteome. Files “0.01”, “0.1”, and “1” correspond to percentile rank thresholds of < 0.01, < 0.1, and < 1, respectively, all with IC50 < 50 nM
 
-*Homology results: This file contains an homology analysis of conserved immunogenic polypeptides between _Giardia_ assemblages A and B
+*Homology results: This file contains an homology analysis of conserved immunogenic polypeptides between _Giardia_ assemblages A and B. Homology was considered positive if it was ≥80%
 
 
 ## Zenodo repository
